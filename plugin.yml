@@ -1,7 +1,7 @@
 name: CustomWings
 api: 4.0.0
 version: 1.5
-main: CustomWings\Main
+main: ItzBluee\Main
 author: ItzBluee02
 commands:
   customwings:
